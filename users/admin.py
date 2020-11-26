@@ -41,7 +41,6 @@ class ProfileAdmin(admin.ModelAdmin):
                 'fields': (('user', 'picture'),)
             }
         ),
-       
         (
             'Extra info',
             {

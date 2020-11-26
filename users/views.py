@@ -1,5 +1,3 @@
-"""User views."""
-
 # Django
 from django.contrib.auth import logout
 from django.contrib.auth import views as auth_views
